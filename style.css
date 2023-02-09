@@ -1,0 +1,23 @@
+ body{
+    background-image: url("background.jpg");
+    background-size: cover;
+ }
+
+ .heading{
+    width: 100%;
+    margin: 0;
+    font-size: 17px;
+ }
+
+ .divVolume{
+    float: right;
+ }
+
+ .gif{
+    width: 170px;
+    border-radius: 30px;
+ }
+
+ .divVelocidade{
+    float: left;
+ }
