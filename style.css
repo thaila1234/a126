@@ -21,3 +21,9 @@
  .divVelocidade{
     float: left;
  }
+
+ canvas{
+   border: 3px solid;
+   border-color: white;
+   border-radius: 7px;
+ }
